@@ -7,7 +7,6 @@
 # Part I: Language
 
 - [Test Rust](ch01-test-rust.md)
-- [My Editor](ch02-myeditor.md)
 
 ---
 
@@ -20,6 +19,7 @@
     - [IPC](ch114-ipc.md)
     - [网络](ch115-net.md)
     - [IO](ch116-io.md)
+    - [CGROUP](ch117-cgroup.md)
 
 - [shell](ch12-shell.md)
 
@@ -32,6 +32,7 @@
 # Part IV: App
 
 - [md-book](ch41-mdbook.md)
+- [My Editor](ch42-myeditor.md)
 
 ---
 
